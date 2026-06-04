@@ -1,0 +1,58 @@
+# Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+.project
+.classpath
+*.sublime-workspace
+.README.md
+
+# Node/Npm
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+
+# Build
+dist/
+build/
+.cache/
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# OS específicos
+.AppleDouble
+.LSOverride
+
+# Temporários
+*.tmp
+temp/
+cache/
+
+# Backup
+*.bak
+backup/
+
+# IDE específicas
+.vscode/settings.json
+.vscode/extensions.json
